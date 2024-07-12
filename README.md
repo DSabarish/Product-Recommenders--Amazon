@@ -1,4 +1,4 @@
-# Product Recommenders- Amazon 🛍️
+# Content Based Recommender System 🛍️
 
 ---
 
